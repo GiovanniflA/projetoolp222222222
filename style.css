@@ -1,0 +1,113 @@
+.carro {
+    width: 99%;
+    border: 10px solid black;
+    margin-top: 50px;
+    vertical-align: top;
+
+
+}
+
+.titulo {
+    font-size: 100px;
+    position: relative;
+    left: 1550px;
+    top: 200px;
+    color: white;
+
+}
+
+.tt {
+    font-size: 30px;
+    position: relative;
+    left: 1570px;
+    top: 130px;
+    color: white;
+}
+
+.bn {
+    font-size: 25px;
+    position: relative;
+    left: 700px;
+    margin: -204px;
+    padding: 100px;
+    margin-top: -400px;
+
+}
+
+.bo {
+    font-size: 25px;
+    position: relative;
+    margin: 40px;
+    left: 895px;
+    margin-bottom: -100px;
+}
+
+.bm {
+    font-size: 25px;
+    position: relative;
+    margin: 65px;
+    left: 1200px;
+    margin-bottom: -100px;
+}
+
+.bl {
+    font-size: 25px;
+    position: relative;
+    margin: 65px;
+    left: 1510px;
+    margin-bottom: -100px;
+}
+
+.linha {
+    font-size: 25px;
+    border-bottom: 7px solid #ccc;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+.img {
+    width: 70px;
+    position: relative;
+    margin: 20px;
+    left: 1790px;
+    bottom: 80px;
+    margin-bottom: -90px;
+}
+
+.po {
+    font-size: 25px;
+    position: relative;
+    left: 1890px;
+    bottom: -100px;
+    margin-top: -165px;
+
+
+}
+
+.hh {
+    width: 80px;
+    position: relative;
+    left: 1900px;
+    bottom: 10px;
+}
+
+.kk {
+    width: 50px;
+    position: relative;
+    left: 1900px;
+    bottom: 5px;
+}
+
+.jj {
+    width: 45px;
+    position: relative;
+    left: 1920px;
+    bottom: 10px;
+}
+
+.oo {
+    width: 80px;
+    position: relative;
+    left: 1400px;
+    bottom: -20px;
+}
